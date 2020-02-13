@@ -1,0 +1,60 @@
+[[libftd2xx]]
+arch = "aarch64"
+git-tree-sha1 = "35934b35fe63d1c29a4a9396e8f4433da9337280"
+libc = "glibc"
+os = "linux"
+
+    [[libftd2xx.download]]
+    sha256 = "0dcdd23f7e6087af54c3d277566f47db82a594dda2a766fcc4cbd1a4c318d823"
+    url = "https://github.com/JuliaBinaryWrappers/libftd2xx_jll.jl/releases/download/libftd2xx-v1.0.0+0/libftd2xx.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[libftd2xx]]
+arch = "x86_64"
+git-tree-sha1 = "34a74369833f9915c1e816248f616623f82c81b0"
+libc = "glibc"
+os = "linux"
+
+    [[libftd2xx.download]]
+    sha256 = "ff39eced6fec752a8b20d4f8b2b11ed12306cb2ee469e9cbee98b85ffc61317d"
+    url = "https://github.com/JuliaBinaryWrappers/libftd2xx_jll.jl/releases/download/libftd2xx-v1.0.0+0/libftd2xx.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[libftd2xx]]
+arch = "x86_64"
+git-tree-sha1 = "a92155d6b5afb28c20012da7dc01075115dbb336"
+os = "macos"
+
+    [[libftd2xx.download]]
+    sha256 = "9315aca92eaff772286f1e5b31b0c2e3aff69b524f9117fdc02cb302f7a358a7"
+    url = "https://github.com/JuliaBinaryWrappers/libftd2xx_jll.jl/releases/download/libftd2xx-v1.0.0+0/libftd2xx.v1.0.0.x86_64-apple-darwin14.tar.gz"
+[[libftd2xx]]
+arch = "i686"
+git-tree-sha1 = "7e00c9549f33f7510539607d6c061244beb9799e"
+libc = "glibc"
+os = "linux"
+
+    [[libftd2xx.download]]
+    sha256 = "6538eb5d8c1bc5808933c50e9f411ae1d9fc18a474fa42f64ed8f24576ab6c57"
+    url = "https://github.com/JuliaBinaryWrappers/libftd2xx_jll.jl/releases/download/libftd2xx-v1.0.0+0/libftd2xx.v1.0.0.i686-linux-gnu.tar.gz"
+[[libftd2xx]]
+arch = "armv7l"
+git-tree-sha1 = "b44965d2918f49c4fe5fe93e21a88375d4f3c190"
+libc = "glibc"
+os = "linux"
+
+    [[libftd2xx.download]]
+    sha256 = "d9f7cc4a795433cbca2b06ad63a39d0f75e2bc64096a20fd990df154db44cb4d"
+    url = "https://github.com/JuliaBinaryWrappers/libftd2xx_jll.jl/releases/download/libftd2xx-v1.0.0+0/libftd2xx.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[libftd2xx]]
+arch = "i686"
+git-tree-sha1 = "bba388fe13230a3a5c85f094f11e9c4b4ea82ea8"
+os = "windows"
+
+    [[libftd2xx.download]]
+    sha256 = "07f07e4e34fbe272bfbd56881208f15b8dca32d961f0eec1afd952e74326a5b8"
+    url = "https://github.com/JuliaBinaryWrappers/libftd2xx_jll.jl/releases/download/libftd2xx-v1.0.0+0/libftd2xx.v1.0.0.i686-w64-mingw32.tar.gz"
+[[libftd2xx]]
+arch = "x86_64"
+git-tree-sha1 = "31d55b938ad0e6e6c80eda88f3a1c029cf70e744"
+os = "windows"
+
+    [[libftd2xx.download]]
+    sha256 = "1fc273adc7fd6c5bebe512b3109530fdd0bf3431a987bb263f971f36acad38be"
+    url = "https://github.com/JuliaBinaryWrappers/libftd2xx_jll.jl/releases/download/libftd2xx-v1.0.0+0/libftd2xx.v1.0.0.x86_64-w64-mingw32.tar.gz"
